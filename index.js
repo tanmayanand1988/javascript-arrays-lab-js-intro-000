@@ -8,4 +8,9 @@ function destructivelyAppendKitten(kitten){
 function destructivelyPrependKitten(kitten){
   return kittens.unshift(kitten);
 }
+
+function destructivelyRemoveLastKitten(array){
+  return kitten.pop();
+}
+
 // Add your functions and code here
