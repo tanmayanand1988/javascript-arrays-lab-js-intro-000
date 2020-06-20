@@ -9,7 +9,7 @@ function destructivelyPrependKitten(kitten){
   return kittens.unshift(kitten);
 }
 
-function destructivelyRemoveLastKitten(array){
+function destructivelyRemoveLastKitten(kitten){
   return kitten.pop();
 }
 
